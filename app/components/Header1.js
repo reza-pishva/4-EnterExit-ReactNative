@@ -23,17 +23,7 @@ function Header1(props) {
           <MaterialCommunityIcons name="drag" size={40} color="white" />
         </TouchableOpacity>        
       </View>
-      {/* <Modal
-       visible={isModalVisible}
-       animationType='fade'
-      //  transparent={true}
-      >
-        <View style={{width:"50%",height:"50%"}}>
-           <Text style={{marginTop:200}}>uuuuu</Text>
-        </View>
-        
-      </Modal> */}
-      
+           
       </>
     );
     
